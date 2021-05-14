@@ -2,8 +2,6 @@
 
 ## Author: Chris Gantt
 
----
-
 ### Setup
 
 `npm i`
